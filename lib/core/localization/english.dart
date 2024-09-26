@@ -1,0 +1,161 @@
+//english translate
+//need key of String and String value to show
+
+Map<String, String> englishLanguage = {
+  //forget password
+  "Password Reset Mail has been sent to your authorized Email":
+      "Password Reset Mail has been sent to your authorized Email",
+  'Forget Password': 'Forget Password',
+  "Please enter your email": "Please enter your email",
+  "We will send you a verify code to your\nemail":
+      "We will send you a verify code to your\nemail",
+  "(Required)": "(Required)",
+  //login
+  "Login successfully": "Login successfully",
+  'Login': 'Login',
+  "Welcome Back": "Welcome Back",
+  "Please Log in To Continue": "Please Log in To Continue",
+  "Don't have an account ?": "Don't have an account ?",
+  "Register now": "Register now",
+  "This account has been deleted. Contact the administration to restore it":
+      "This account has been deleted. Contact the administration to restore it",
+  //register
+  'Select Company':'Select Company',
+  'Select Service':'Select Service',
+  "Account created successfully please login ":
+      "Account created successfully please login ",
+  'Register': 'Register',
+  "Create account": "Create account",
+  "New to our platform? Complete the details below.":
+      "New to our platform? Complete the details below.",
+  "You have an account ?": "You have an account ?",
+  '(Optional)': '(Optional)',
+  " English Responsible Person Name :": " English Responsible Person Name :",
+  " Arabic Responsible Person Name :": " Arabic Responsible Person Name :",
+  " Responsible Person Mobile :": " Responsible Person Mobile :",
+  " Princedom Name :": " Princedom Name :",
+  'Person': 'Driver',
+  'Company': 'Company',
+  'Upload Image (Optional)': 'Upload Image (Optional)',
+  "Replace Image": "Replace Image",
+  "Delete Image": "Delete Image",
+  "View Full Image": "View Full Image",
+  " English Company Name :": " English Company Name :",
+  " Arabic Company Name :": " Arabic Company Name :",
+  //helper
+  "Failed to lunch": "Failed to lunch",
+  'Please enter a valid name': 'Please enter a valid name',
+  'Please enter a valid email': 'Please enter a valid email',
+  'Please enter a valid phone number': 'Please enter a valid phone number',
+  "This field is required": "This field is required",
+  "Can't be less than": "Can't be less than",
+  "Can't be more than": "Can't be more than",
+  "Doesn't compare": "Doesn't compare",
+  //Dio errors
+  "No internet connection": "No internet connection",
+  "TimeOut for the request": "TimeOut for the request",
+  'Something went wrong': 'Something went wrong',
+  'Retry': 'Retry',
+  //profile
+  'Profile': 'Profile',
+  'Edit Profile': 'Edit Profile',
+  'Orders': 'Orders',
+  'Points': 'Points',
+  'Delete Account': 'Delete Account',
+  'Log Out': 'Log Out',
+  "Logout successfully": "Logout successfully",
+  "Account Deleted successfully": "Account Deleted successfully",
+  "Yes": "Yes",
+  "No": "No",
+  "Are you sure you want to delete this account ?":
+      "Are you sure you want to delete this account ?",
+  'Contact us': 'Contact us',
+  'Privacy policy': 'Privacy policy',
+  'About us': 'About us',
+  'Terms & Conditions': 'Terms & Conditions',
+  //contact us
+  "Message send successfully": "Message send successfully",
+  "Write your message": "Write your message",
+  'write your message her': 'write your message her',
+  'Send': 'Send',
+  'Title': 'Title',
+  'Contact Us':'Contact Us',
+  //choose location
+  "Warning": "Warning",
+  "Please enable location Service": "Please enable location Service",
+  "Please give permission for location to use this app":
+      "Please give permission for location to use this app",
+  "You can't use this app with out location service please enable location permission for this app from your device settings":
+      "You can't use this app with out location service please enable location permission for this app from your device settings",
+  'Choose Location': 'Choose Location',
+  "You can't use this app with out location permission":
+      "You can't use this app with out location permission",
+  "Please enable location permission for this app from your device settings":
+      "Please enable location permission for this app from your device settings",
+  "Continue": "Continue",
+  //services order details
+  "Services Order Details": "Services Order Details",
+  "Service Provider :": "Service Provider :",
+  'Service Name : ': 'Service Name : ',
+  'Company Responsible Person Mobile : ':
+      'Company Responsible Person Mobile : ',
+  'Company Email : ': 'Company Email : ',
+  "Driver Details :": "Driver Details :",
+  'Email : ': 'Email : ',
+  'Address : ': 'Address : ',
+  'Phone : ': 'Phone : ',
+  "Order Details :": "Order Details :",
+  'Service Cost : ': 'Service Cost : ',
+  'Service Cost After Offer : ': 'Service Cost After Offer : ',
+  'Payment Way : ': 'Payment Way : ',
+  "Accepted": "Accepted",
+
+  //company orders 
+  'Newest':'Newest',
+  'Oldest':'Oldest',
+  'Product':'Product',
+  'Order by':'Order by',
+  'Type':'Type',
+  'Service':'Service',
+  'Search...':'Search...',
+  "Pending":"Pending",
+  "Done":"Done",
+  "Rejected":"Rejected",
+  "Order : ":"Order : ",
+  "order rejected":"order rejected",
+  "order accepted":"order accepted",
+  "Operation failed try again":"Operation failed try again",
+  //driver orders 
+  "ServicesProvider : ":"ServicesProvider : ",
+  "Client Details :":"Client Details :",
+  'Client Email : ':'Client Email : ',
+  'Client Phone Number : ':'Client Phone Number : ',
+  "Client Name : ":"Client Name : ",
+  "Company Name : ":"Company Name : ",
+  "Driver Name : ":"Driver Name : ",
+  "Payment way : ":"Payment way : ",
+  "Total : ":"Total : ",
+  'AED':'AED',
+  "Status : ":"Status : ",
+  "Reject":"Reject",
+  "Accept":"Accept",
+  // Order Tracking
+   "Order Tracking": "Order Tracking",
+   'Complete Order':'Complete Order',
+   'Alert':'Alert',
+   "Are you sure you want to complete this order ?":"Are you sure you want to complete this order ?",
+   "Tap to call":"Tap to call",
+   //order details
+   "Order details":"Order details",
+   'Quantity :':'Quantity :',
+   'Order number ':'Order number ',
+   'Total Price ':'Total Price ',
+   'Price After Discount ':'Price After Discount ',
+   'Currency ':'Currency ',
+   'Date ':'Date ',
+   'Coupon code ':'Coupon code ',
+   'Payment method ':'Payment method ',
+   "cash":"cash",
+    "pending":"pending",
+    
+};
